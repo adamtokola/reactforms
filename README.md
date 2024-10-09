@@ -89,7 +89,7 @@ The other thing i needed to consider here is where to share the token/informatio
 
 ## App.jsx
 
-I've been practicing how to interpret code to form some muscle memory and conditioning. Heres how I understand it:
+I've been practicing how to interpret code to form some muscle memory and conditioning. So here's a shot at some articulation:
 
 - we're storing the `token`
 - we created a function called `setToken` which updates the token when I receive a new one from the API
