@@ -128,4 +128,4 @@ With that being said, we're extracting the {token} prop from the props the paren
 
 And of course, to conclude these notes and this workshop, we receive an error. A developer's dream.
 
-![React Forms](./imgs/REACTFORMS.gif)
+![React Forms](https://raw.githubusercontent.com/adamtokola/reactforms/refs/heads/main/reactformsapp/imgs/REACTFORMS.gif)
