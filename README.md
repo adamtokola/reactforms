@@ -107,7 +107,7 @@ I've been practicing how to interpret code to form some muscle memory and condit
 
 I had to go back and revisit block 25 and review the material on props. I guess to summarize, props (properties) are a way to pass data from one component to another; parent component will have the ability to send info to child components. To simplify this concept, i needed another analogy. Ill stick with the school theme:
 
-- My mom would send me off to school with a lunch box. I never decided what was in it, i just took what was provided to me. So in the case of props:
+My mom would send me off to school with a lunch box. I never decided what was in it, i just took what was provided to me. So in the case of props:
 
 - Mom = Parent = `App.jsx`
 - Child = `Authenticate.jsx`
