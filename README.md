@@ -45,7 +45,7 @@ react fragment [ <> ]
 - returns multiple elements without wrapping them in a parent container 
 - keeps the HTML structure clean. 
 
-So if i were to use someting like a <div> here, this would mean i added an extra node to the dom which isn't necessary
+So if i were to use someting like a `<div>` here, this would mean i added an extra node to the dom which isn't necessary
 ```
 return (
   <>
